@@ -79,5 +79,12 @@
     </a>
   </div>
 
+  <h2></h2>
+  <p align="center">
+    <i>"Ingin mejadi programmer handal tapi enggan ngoding"</i>
+  </p>
+  
+  
+
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,50:3B82F6,100:60A5FA&height=100&section=footer"/>
 </div>
