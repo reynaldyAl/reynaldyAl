@@ -46,7 +46,7 @@
         <br />
         <sub>Film Enthusiast</sub>
         <br />
-        <sup>Cinema • Storytelling</sup>
+        <sup>Movies • Ghibli</sup>
       </td>
       <td align="center" width="250px">
         <img src="https://img.shields.io/badge/Music-4CC2FF?style=for-the-badge&logo=spotify"/>
