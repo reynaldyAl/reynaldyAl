@@ -11,16 +11,9 @@
   <!-- Replace the original stats section with this -->
 <h2>📊 GitHub Journey</h2>
 
-<!-- Animated Stats Cards -->
-
 <!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=reynaldyAl&theme=algolia&no-frame=true&no-bg=true&row=1&column=3"/>
-</p>
-
-<!-- Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/reynaldyAl/reynaldyAl/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <!-- Activity Graph -->
