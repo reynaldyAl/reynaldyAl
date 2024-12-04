@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,50:3B82F6,100:60A5FA&height=200&section=header&text=Reynaldy%20Al&fontSize=50&animation=fadeIn&fontColor=ffffff"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=35&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Film+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=35&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=MahaStudent;Film+Enthusiast" />
 
   <div style="margin: 15px 0;">
     <img src="https://img.shields.io/badge/UNIVERSITAS%20HASANUDDIN-Information%20System-FFA500?style=for-the-badge&labelColor=3B82F6"/>
