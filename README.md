@@ -74,6 +74,9 @@
     <a href="https://github.com/reynaldyAl">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
+    <a href="https://instagram.com/reynaldy_al">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
   </div>
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,50:3B82F6,100:60A5FA&height=100&section=footer"/>
