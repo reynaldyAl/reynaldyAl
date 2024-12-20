@@ -17,9 +17,7 @@
 </p>
 
 <!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reynaldyAl&bg_color=0D1117&color=3B82F6&line=60A5FA&point=FFFFFF&hide_border=true"/>
-</p>
+
 
 <!-- Streak Stats -->
 <p align="center">
@@ -53,7 +51,7 @@
         <br />
         <sub>Guitar & Music</sub>
         <br />
-        <sup>Sotify • Jamming</sup>
+        <sup>Spotify • Jamming</sup>
       </td>
     </tr>
   </table>
